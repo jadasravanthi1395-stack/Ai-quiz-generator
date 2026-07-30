@@ -1,44 +1,58 @@
-# Ai-quiz-generator
-AI Quiz Generator is a Python and Streamlit application that uses the Groq API to generate AI-powered multiple-choice quizzes on any topic. Users can choose the difficulty level, answer the questions, and view their score instantly.
- ✨ Features
-📚 Topic-based quiz generation
-🎯 Difficulty selection (Easy, Medium, Hard)
-❓ Multiple Choice Questions (MCQs)
-✅ Answer key generation
-⚡ Fast AI-powered responses
-💻 Simple and user-friendly interface
-🛠️ Tech Stack
-🐍 Python
-🎨 Streamlit
-🤖 Groq API
-💻 Visual Studio Code
-🌐 Git & GitHub
-📂 Project Structure
+# 🤖 AI Quiz Generator
+
+## Problem Statement
+Generate AI-powered multiple-choice quizzes from any topic.
+
+## Learning Objectives
+- Structured Output
+- JSON Parsing
+- Prompt Engineering
+
+## Technologies
+- Python
+- Streamlit
+- Groq API
+- Visual Studio Code
+- Git & GitHub
+
+## Features
+- Topic-based quiz generation
+- Difficulty selection (Easy, Medium, Hard)
+- Multiple Choice Questions (MCQs)
+- Answer key generation
+- Instant score display
+- User-friendly interface
+
+## Challenge
+Generate unique quiz questions with accurate answers.
+
+## Project Structure
+```text
 AI-Quiz-Generator/
-│── app.py
-│── requirements.txt
-│── README.md
-│── .gitignore
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
 └── assets/
-⚙️ Installation
-📥 Clone the repository.
 
-📦 Install the required libraries:
+## Installation
 
-pip install -r requirements.txt
-🔑 Add your Groq API key.
+- Clone the repository
+- Install the required packages
+- Add your Groq API key
+- Run the Streamlit application
 
-▶️ Run the application:
+## Output
 
-streamlit run app.py
-🌐 Open the local URL displayed in your browser.
-📸 Output
-📝 Enter a quiz topic.
-🎯 Select the difficulty level.
-🚀 Click Generate Quiz.
-📚 View AI-generated MCQs with correct answers.
-👩‍💻 Author
+- AI-generated multiple-choice quiz
+- Difficulty-based questions
+- Correct answers
+- Instant score display
 
-Jada Sravanthi
-🎓 Master of Computer Applications (MCA) Student
+## Author
+
+- Jada Sravanthi
+- MCA Student
+- Python & AI Enthusiast
+
 
